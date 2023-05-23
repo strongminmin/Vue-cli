@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvue_cli=self.webpackChunkvue_cli||[]).push([[630],{5630:(e,n,u)=>{u.r(n),u.d(n,{default:()=>t});var c=u(6252),l=[(0,c._)("h1",{class:"home-title"},"hi home",-1)];const s={name:"Home"};const t=(0,u(3744).Z)(s,[["render",function(e,n,u,s,t,i){return(0,c.wg)(),(0,c.iD)("div",null,l)}]])}}]);
+//# sourceMappingURL=630.5585ca060d.chunk.js.map
